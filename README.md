@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefkanan&label=Profile%20views&color=0e75b6&style=flat" alt="youssefkanan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefkanan" alt="youssefkanan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kanan_youssef" target="blank"><img src="https://img.shields.io/twitter/follow/kanan_youssef?logo=twitter&style=for-the-badge" alt="kanan_youssef" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://youssefkanan.com](https://youssefkanan.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/youssef-kanan](https://www.linkedin.com/in/youssef-kanan)
