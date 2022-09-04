@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://youssefkanan.com](https://youssefkanan.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/youssef-kanan](https://www.linkedin.com/in/youssef-kanan)
+- 📄 Know about my experiences [https://www.linkedin.com/in/youssefkanan](https://www.linkedin.com/in/youssefkanan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
